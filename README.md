@@ -25,5 +25,3 @@ Cada carta tem um numero chave para ser decifrada, garantindo assim uma maior se
 
     #Modo de Usar.
 - Para usar é simples: Escolha a chave numerica, escreva sua mensagem sem ascentuações e click na opção desejada: Cifrar ou Decifrar? Bora tentar?!
-
-
