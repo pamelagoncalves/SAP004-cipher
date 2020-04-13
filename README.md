@@ -1,6 +1,5 @@
-#Processo e decisões do desenho.
-- Historia decidi fazer pegando algumas sitações da vida real, desenho fiz no caderno e fui 
-decidindo melhor o layout conforme fui me familiarizando com o Css.
+#Processo e decisões da historia e do desenho.
+- Historia decidi fazer pegando algumas situações da vida real e transformar em uma ficção, desenho fiz no caderno e fui decidindo melhor o layout conforme fui me familiarizando com o Css.
 
 #Quem são os principais usuarios?
 - Baseado na Historia do produto os principais usuarios seriam Cientistas que querem 
