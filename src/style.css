@@ -1,0 +1,66 @@
+body {
+    margin: auto;
+    background-image: url("imagens/fundo.jpeg"); 
+}
+
+h1{
+    background-color: rgb(119, 117, 117);
+    text-align: center;
+}
+h3{
+    margin-top: 5px; 
+    margin-bottom: auto; 
+}
+main {
+    color: rgb(0, 0, 0);
+    background-color: rgb(158, 152, 152);
+    max-width: 500px;
+    margin: 0 auto;
+    border: 5px solid rgb(255, 255, 255);
+    text-align: -webkit-center;
+}
+    #mododeusar {
+        border: 3px solid rgb(0, 0, 0);
+        font-family: cursive;
+        text-align: -webkit-center;
+    }
+    #offset {
+        border-radius: 7px;
+        border-color: #0a0a5a;
+        text-align: center;
+    }
+    #mensagem {
+        border-radius: 20px;
+        margin-top: 1px;
+        width: 492px;
+        border-color: rgb(0, 0, 0);
+        font-weight: bold;
+        font-size: x-large;
+    }
+    
+    #resultado {
+        background-color: #2294ab;
+        height: 50px;
+        width: 400px;
+        margin: auto;
+        margin-top: 1px;
+        padding: 10px;
+        border-radius: 20px;
+}
+    #codificar{
+        margin-top: 5px;
+        padding: 6px;
+        border-radius: 12px;
+        font-weight: bold;
+        font-style: italic;
+        border-color: #08981b;
+    }
+    #decodificar{
+        margin-top: 5px;
+        padding: 6px;
+        border-radius: 12px;
+        font-weight: bold;
+        font-style: italic;
+        border-color: #08981b;
+        text-align: -webkit-center;
+    }
